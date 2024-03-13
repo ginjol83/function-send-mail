@@ -1,5 +1,6 @@
 const mailConfig = {
         host: '',
+        mail: '',
         port: 0,
         secure: false, 
         auth: {
